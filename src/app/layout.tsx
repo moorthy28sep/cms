@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import type { Metadata } from 'next';
-import '../styles/index.css';
+import '../../styles/index.css';
 
 export const metadata: Metadata = {
   title: 'AIQ PAS/CMS',

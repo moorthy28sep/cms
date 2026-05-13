@@ -8,31 +8,20 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
 
-/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Cmoorthy.thankappan%5C%5CDownloads%5C%5CInsurance%20Policy%20Management%20System%20(1)%5C%5Csrc%5C%5Cstyles%5C%5Cindex.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!":
-/*!***************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Cmoorthy.thankappan%5C%5CDownloads%5C%5CInsurance%20Policy%20Management%20System%20(1)%5C%5Csrc%5C%5Cstyles%5C%5Cindex.css%22%2C%22ids%22%3A%5B%5D%7D&server=false! ***!
-  \***************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!":
+/*!*******************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false! ***!
+  \*******************************************************************************************************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/styles/index.css */ \"(app-pages-browser)/./src/styles/index.css\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lN0IlMjJyZXF1ZXN0JTIyJTNBJTIyQyUzQSU1QyU1Q1VzZXJzJTVDJTVDbW9vcnRoeS50aGFua2FwcGFuJTVDJTVDRG93bmxvYWRzJTVDJTVDSW5zdXJhbmNlJTIwUG9saWN5JTIwTWFuYWdlbWVudCUyMFN5c3RlbSUyMCgxKSU1QyU1Q3NyYyU1QyU1Q3N0eWxlcyU1QyU1Q2luZGV4LmNzcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLHNLQUE2SSIsInNvdXJjZXMiOlsiIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiQzpcXFxcVXNlcnNcXFxcbW9vcnRoeS50aGFua2FwcGFuXFxcXERvd25sb2Fkc1xcXFxJbnN1cmFuY2UgUG9saWN5IE1hbmFnZW1lbnQgU3lzdGVtICgxKVxcXFxzcmNcXFxcc3R5bGVzXFxcXGluZGV4LmNzc1wiKTtcbiJdLCJuYW1lcyI6W10sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Cmoorthy.thankappan%5C%5CDownloads%5C%5CInsurance%20Policy%20Management%20System%20(1)%5C%5Csrc%5C%5Cstyles%5C%5Cindex.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!\n"));
 
-/***/ }),
-
-/***/ "(app-pages-browser)/./src/styles/index.css":
-/*!******************************!*\
-  !*** ./src/styles/index.css ***!
-  \******************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"ae13332b0530\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3NyYy9zdHlsZXMvaW5kZXguY3NzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxpRUFBZSxjQUFjO0FBQzdCLElBQUksSUFBVSxJQUFJLGlCQUFpQiIsInNvdXJjZXMiOlsiQzpcXFVzZXJzXFxtb29ydGh5LnRoYW5rYXBwYW5cXERvd25sb2Fkc1xcSW5zdXJhbmNlIFBvbGljeSBNYW5hZ2VtZW50IFN5c3RlbSAoMSlcXHNyY1xcc3R5bGVzXFxpbmRleC5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgXCJhZTEzMzMyYjA1MzBcIlxuaWYgKG1vZHVsZS5ob3QpIHsgbW9kdWxlLmhvdC5hY2NlcHQoKSB9XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./src/styles/index.css\n"));
 
 /***/ })
 
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-/******/ __webpack_require__.O(0, ["main-app"], () => (__webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Cmoorthy.thankappan%5C%5CDownloads%5C%5CInsurance%20Policy%20Management%20System%20(1)%5C%5Csrc%5C%5Cstyles%5C%5Cindex.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!")));
+/******/ __webpack_require__.O(0, ["main-app"], () => (__webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!")));
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
